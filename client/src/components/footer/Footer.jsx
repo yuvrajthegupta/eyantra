@@ -13,12 +13,6 @@ const Footer = () => {
           </p>
         </div>
         <div className={classes.col}>
-          <h2>Contacts</h2>
-          <span>Phone: +123 456 789</span>
-          <span>YouTube: WebDevMania</span>
-          <span>GitHub: WebDevMania</span>
-        </div>
-        <div className={classes.col}>
           <h2>Location</h2>
           <span>Continent: Europe</span>
           <span>Country: Bulgaria</span>
